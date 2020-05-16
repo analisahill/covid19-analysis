@@ -6,7 +6,7 @@ Here are the nbviewer links to my notebooks:
 
 
 Data acquired by: https://covidtracking.com/ from _The Atlantic_, which was acquired by _John's Hopkins University_. 
-
+Geojson data acquired by: https://raw.githubusercontent.com/python-visualization/folium/master/examples/data/us-states.json
 
 
 
