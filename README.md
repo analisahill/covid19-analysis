@@ -13,4 +13,4 @@ Geojson data acquired by: https://raw.githubusercontent.com/python-visualization
 
 
 
-**Disclaimer: These are my calculations for the Covid-19 pandemic. This is for people to use for educational purposes and to learn some data analysis/data science skills. Not all calculations may be correct, but please comment or contribute if you find anything incorrect. Thanks!**
+**Disclaimer: These are my calculations for the COVID-19 pandemic. This is for people to use for educational purposes and to learn some data analysis/data science skills. Not all calculations may be correct, but please comment or contribute if you find anything incorrect. Thanks!**
